@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/mdhrumil/english-dutch-text-classification-nlp-beginner/
+
+https://www.kaggle.com/datasets/omarsobhy14/university-students-complaints-and-reports/
+
+https://www.kaggle.com/datasets/fedesoriano/gisette-dataset-mnist-digits-4-and-9/data
